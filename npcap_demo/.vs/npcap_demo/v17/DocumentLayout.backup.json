@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kagan\\source\\repos\\npcap_demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9301B471-DBA5-4C03-B0AA-3277C7CD0174}|npcap_demo\\npcap_demo.csproj|c:\\users\\kagan\\source\\repos\\npcap_demo\\npcap_demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9301B471-DBA5-4C03-B0AA-3277C7CD0174}|npcap_demo\\npcap_demo.csproj|solutionrelative:npcap_demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9301B471-DBA5-4C03-B0AA-3277C7CD0174}|npcap_demo\\npcap_demo.csproj|c:\\users\\kagan\\source\\repos\\npcap_demo\\npcap_demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9301B471-DBA5-4C03-B0AA-3277C7CD0174}|npcap_demo\\npcap_demo.csproj|solutionrelative:npcap_demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9301B471-DBA5-4C03-B0AA-3277C7CD0174}|npcap_demo\\npcap_demo.csproj|c:\\users\\kagan\\source\\repos\\npcap_demo\\npcap_demo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9301B471-DBA5-4C03-B0AA-3277C7CD0174}|npcap_demo\\npcap_demo.csproj|solutionrelative:npcap_demo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\source\\repos\\npcap_demo\\npcap_demo\\Form1.cs",
+              "RelativeDocumentMoniker": "npcap_demo\\Form1.cs",
+              "ToolTip": "C:\\Users\\kagan\\source\\repos\\npcap_demo\\npcap_demo\\Form1.cs",
+              "RelativeToolTip": "npcap_demo\\Form1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowC8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T02:17:44.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\source\\repos\\npcap_demo\\npcap_demo\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "npcap_demo\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\kagan\\source\\repos\\npcap_demo\\npcap_demo\\Form1.Designer.cs",
+              "RelativeToolTip": "npcap_demo\\Form1.Designer.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T02:17:41.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kagan\\source\\repos\\npcap_demo\\npcap_demo\\Form1.cs",
+              "RelativeDocumentMoniker": "npcap_demo\\Form1.cs",
+              "ToolTip": "C:\\Users\\kagan\\source\\repos\\npcap_demo\\npcap_demo\\Form1.cs [Design]",
+              "RelativeToolTip": "npcap_demo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T02:17:42.996Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

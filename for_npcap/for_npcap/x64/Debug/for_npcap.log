@@ -1,0 +1,7 @@
+﻿  for_npcap.cpp
+C:\Users\kagan\source\repos\for_npcap\for_npcap\for_npcap.cpp(4,5): warning C4273: 'send_raw_packet': inconsistent dll linkage
+  (compiling source file '/for_npcap.cpp')
+      C:\Users\kagan\source\repos\for_npcap\for_npcap\for_npcap.h(24,30):
+      see previous definition of 'send_raw_packet'
+  
+  for_npcap.vcxproj -> C:\Users\kagan\source\repos\for_npcap\x64\Debug\for_npcap.dll
